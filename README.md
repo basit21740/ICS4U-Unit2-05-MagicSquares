@@ -1,1 +1,1 @@
-# ICS4U-Unit2-05-MagicSquares
+#ics4u-unit2-05-java
